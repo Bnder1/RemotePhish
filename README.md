@@ -13,3 +13,6 @@ git clone https://github.com/Bnder1/RemotePhish
 cd RemotePhish
 ./RemotePhish.sh
 ```
+
+## Sites
+- Few import soon
